@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center"></div>
+        {% with messages = get_flashed_messages(category_filter=["dashboard"]) %}
+            {% if messages %}
+                <ul class="flash-messages">
+                {% for message in messages %}
+                    <li>{{ message }}</li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+        {% endwith %}
+        <h2>Password Manager Dashboard</h2>
+        <p>Welcome, {{ username }}!</p>
+
+        <!-- Displaying a message for no entries found -->
+        {% if password_entries|length == 0 %}
+        <p>No password entries found.</p>
+        {% else %}
+        <!-- Table for displaying password entries -->
+        <table class="table">
+            <thead>
+                <tr>
+                    {% if username == "ADMIN" %}
+                        <th>ID</th>
+                        <th>User ID</th>
+                    {% endif %}
+                    <th>Website</th>
+                    <th>Username</th>
+                    <th>Password</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for entry in password_entries %}
+                <tr>
+                    {% if username == "ADMIN" %}
+                        <td>{{ entry.id }}</td>
+                        <td>{{ entry.UserID }}</td>
+                    {% endif %}
+                    <td>{{ entry.website }}</td>
+                    <td>{{ entry.username }}</td>
+                    <td>{{ entry.password }}</td>
+                </tr>
+                {% else %}
+                <tr>
+                    <td colspan="5">No entries found.</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %} 
+
+        {% if username != "ADMIN" %}
+        <!-- Form for adding new password entries -->
+        <h3>Add New Password Entry</h3>
+        <form action="/add-password" method="post" class="needs-validation" novalidate>
+            <div class="form-group">
+                <label for="website">Website:</label>
+                <input type="text" id="website" name="website" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-success">Add Entry</button>
+            <a href="{{ url_for('logout') }}" class="btn btn-danger">Logout</a>
+        </form>
+        {% endif %} 
+        {% if username == "ADMIN" %}
+        <a href="{{ url_for('logout') }}" class="btn btn-danger">Logout</a>
+        {% endif %} 
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        setTimeout(() => {
+            const flashes = document.querySelectorAll('.flash-messages');
+            flashes.forEach(flash => flash.style.display = 'none');
+        }, 6000); // 6 seconds
+    });
+    </script>
+</body>
+</html>

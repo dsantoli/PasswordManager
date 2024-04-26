@@ -1,0 +1,175 @@
+/* Basic reset and global styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f3f4f6; 
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+}
+
+/* Container for login and dashboard elements */
+.container {
+    width: 100%;
+    max-width: 360px; /* Max width to keep the forms manageable */
+}
+
+/* Card-like styling for sections */
+.card {
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+/* Styling for the header of the card, typically for tabs or titles */
+.card-header {
+    background-color: #0056b3;
+    color: #ffffff;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+/* Tab navigation styling within card headers */
+.card-header .tab-group {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.card-header .tab {
+    flex: 1;
+    text-align: center;
+}
+
+.card-header .tab a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    transition: background-color 0.3s;
+}
+
+.card-header .tab a:hover,
+.card-header .tab.active a {
+    background-color: #007bff; /* Lighter blue for interaction */
+}
+
+/* Main content styling of the card */
+.card-body {
+    padding: 20px;
+}
+
+/* Form sections, hidden by default unless active */
+.form-container {
+    display: none;
+}
+
+.form-container.active {
+    display: block;
+}
+
+/* Form field styling */
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group input,
+.form-group button {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.form-group input {
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+}
+
+/* Button styling within forms */
+.form-group button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-group button:hover {
+    background-color: #218838;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 400px) {
+    .card {
+        border-radius: 0; /* Edge to edge on small screens */
+    }
+}
+
+/* Styling for flash messages */
+.flash-messages {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ffd700;
+    background-color: #fff3cd;
+    color: #856404;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Alert styling for error messages or notifications */
+.alert {
+    margin-bottom: 5px;
+}
+
+/* Button utility styling */
+.btn {
+    padding: 6px 10px;
+    margin: 0 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Additional button styles for specific actions */
+.generate-btn, .copy-btn {
+    background-color: #28a745; /* Green for generate actions */
+}
+
+.copy-btn {
+    background-color: #17a2b8; /* Blue for copy actions */
+}
+
+.register-btn {
+    background-color: #007bff; /* Standard blue for register actions */
+}
+
+/* Styling for password visibility toggle */
+.show-password {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.show-password input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+/* Group buttons together, particularly at the bottom of forms */
+.button-group {
+    margin-bottom: 10px;
+    text-align: left;
+}

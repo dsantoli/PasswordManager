@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login or Register</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+<div class="container">
+    {% with messages = get_flashed_messages(category_filter=["auth"]) %}
+        {% if messages %}
+            <ul class="flash-messages">
+            {% for message in messages %}
+                <li>{{ message }}</li>
+            {% endfor %}
+            </ul>
+        {% endif %}
+    {% endwith %}
+    <div class="card">
+        <div class="card-header">
+            <ul class="tab-group">
+                <li class="tab active"><a href="#login">Login</a></li>
+                <li class="tab"><a href="#register">Register</a></li>
+            </ul>
+        </div>
+        <div class="card-body">
+            <div id="login" class="form-container active">
+                <h1>Login</h1>
+                <form action="/" method="post">
+                    <div class="form-group">
+                        <input type="text" name="username" placeholder="Username" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="password" name="password" placeholder="Password" required>
+                    </div>
+                    <button type="submit" name="login" class="btn">Log In</button>
+                </form>
+            </div>
+            <div id="register" class="form-container" style="display:none;">
+                <h1>Register</h1>
+                <form action="/" method="post">
+                    <div class="form-group">
+                        <input type="text" name="username" placeholder="Username" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="password" id="password" name="password" placeholder="Password" required>
+                    </div>
+                    <div class="button-group">
+                        <button type="button" onclick="generatePassword()" class="btn generate-btn">Generate</button>
+                        <button type="button" onclick="copyPassword()" class="btn copy-btn">Copy</button>
+                        <label class="show-password">
+                            <input type="checkbox" onclick="togglePasswordVisibility()">
+                            Show Password
+                        </label>
+                    </div>
+                    <button type="submit" name="register" class="btn register-btn">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="{{ url_for('static', filename='js/auth.js') }}"></script>
+<script>
+function generatePassword() {
+    fetch('/generate-password')
+        .then(response => response.json())
+        .then(data => {
+            if (data.password) {
+                document.getElementById('password').value = data.password;  // Fill the password input
+            } else {
+                alert('Failed to generate password: ' + data.error);
+            }
+        })
+        .catch(error => {
+            console.error('Error fetching password:', error);
+            alert('Error fetching password: ' + error);
+        });
+}
+function copyPassword() {
+    var passwordInput = document.getElementById('password');
+    passwordInput.select(); 
+    passwordInput.setSelectionRange(0, 99999); 
+    document.execCommand("copy"); 
+    alert("Password copied to clipboard!"); 
+}
+function togglePasswordVisibility() {
+    var passwordInput = document.getElementById('password');
+    if (passwordInput.type === "password") {
+        passwordInput.type = "text";
+    } else {
+        passwordInput.type = "password";
+    }
+}
+window.addEventListener('DOMContentLoaded', (event) => {
+    setTimeout(() => {
+        const flashes = document.querySelectorAll('.flash-messages');
+        flashes.forEach(flash => flash.style.display = 'none');
+    }, 6000); // 6 seconds
+});
+</script>
+</body>
+</html>

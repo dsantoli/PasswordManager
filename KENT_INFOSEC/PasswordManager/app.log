@@ -1,0 +1,1695 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - ERROR - Registration failed for DSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 18:14:56] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 18:14:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 18:14:56] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 18:14:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for DSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:06:04] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:06:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:06:04] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:06:30] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:06:30] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:06:30] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:06:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:30:46] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:30:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:30:46] "GET /static/js/auth.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:30:50] "[33mGET /generate-password HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:30:54] "[33mGET /generate-password HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:31:04] "[33mGET /generate-password HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:31:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:31:29] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:31:30] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:31:30] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:31:33] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:32:14] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:33:30] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:33:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:33:31] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:33:33] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:33:40] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:33:42] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:33:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 19:33:42] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:25:56] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:25:57] "GET /static/js/auth.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:25:57] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:25:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:26:06] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:26:06] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:26:06] "GET /static/js/auth.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:26:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:26:08] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:26:37] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:28:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - Generated password: ^stp#8Y5uooa
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:28:53] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: l2W244h>h7_t
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:29:03] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: +k-&!1Ttj51_
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:30:19] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: st9zaf<X48yz
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:30:28] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:31:15] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:31:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:31:15] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - Generated password: Fz1f?l5f;mlq
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:35:56] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:35:57] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:35:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:35:57] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:51:43] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:51:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:51:43] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:55:00] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:55:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:55:00] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:55:40] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:55:40] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:55:40] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:59:18] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:59:18] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 20:59:18] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:02:39] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:02:39] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:02:39] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: 2b<jS"r19^1q
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:02:54] "GET /generate-password HTTP/1.1" 200 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:03:43] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:03:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:03:43] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:04:28] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:04:28] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:04:28] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:04:42] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:04:42] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:04:42] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:05:42] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:05:42] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:05:42] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:05:59] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:05:59] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:05:59] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:06:14] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:06:14] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:06:14] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:06:47] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:06:47] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:06:47] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:09:02] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:09:02] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:09:02] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:11:09] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:11:09] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:11:09] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:11:57] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:11:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:11:57] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:11:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for TSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:14:00] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:14:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:14:00] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: (4<nP90"sbh5
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:14:10] "GET /generate-password HTTP/1.1" 200 -
+root - ERROR - Registration failed for DSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:14:13] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:14:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:14:13] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for DSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:15:02] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:15:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:15:02] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for DSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:15:55] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:15:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:15:55] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 21:16:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\crypto_utils.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - ERROR - Registration failed for DSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:12:59] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:12:59] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:12:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:13:58] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:13:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:13:58] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:15:04] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:15:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:15:04] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:15:50] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:15:50] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:15:50] "GET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:15:50] "GET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:15:50] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:15:50] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:16:00] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:55] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:55] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:55] "[35m[1mGET /login?next=/dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:55] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:55] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:55] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:55] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:58] "[35m[1mGET /login?next=/dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:58] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:58] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:58] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:18:58] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:35] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:35] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:35] "GET /login?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:35] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:45] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:45] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:45] "GET /login?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:45] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:55] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:55] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:55] "GET /login?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:19:55] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:20:32] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:20:32] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:20:32] "GET /login?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:20:32] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:20:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:20:58] "GET /login?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:20:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:20:58] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:21:05] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:21:05] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:21:05] "GET /login?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:21:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:21:05] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:23:17] "GET /login?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:23:18] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:23:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:23:23] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:23:23] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:23:24] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:23:24] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:23:24] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:23:24] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:03] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:03] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:03] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:04] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:04] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:08] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:08] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:16] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:16] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:16] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:16] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:24:16] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:26:20] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:26:20] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:26:20] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:26:20] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:26:20] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:36:34] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:36:35] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:36:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:36:41] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:36:41] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:36:41] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:36:41] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:36:42] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:36:42] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:37:36] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:37:37] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:37:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:37:42] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:37:42] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:37:42] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:37:42] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:37:42] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:37:42] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:38:38] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:38:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:38:38] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:38:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:38:43] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:38:43] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:38:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:38:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:38:52] "[33mGET /generate-password HTTP/1.1[0m" 404 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - Generated password: "vw]d7s8Mq43
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:39:56] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:00] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:00] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: zq82&P/s72n%
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:08] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:11] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:11] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:31] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:40:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - Generated password: d11fxl%@2Han
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:41:35] "GET /generate-password HTTP/1.1" 200 -
+root - ERROR - Registration failed for DSANTOLI. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:41:38] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:41:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:41:38] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:41:45] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:41:45] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:41:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:41:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:41:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+root - INFO - Generated password: l06v7A8\ra\,
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:42:15] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:42:21] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:42:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 22:42:21] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:10] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:11] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+root - INFO - Generated password: Mv'lsxj#?h0r
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:31] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:36] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:36] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - Generated password: b6p3}+w`Yc(2
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:42] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:47] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:47] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: dl084kn}csP]
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:53] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:56] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:04:56] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: o_<4Fdg5's&8
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:05:08] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: dj7a90jq[keJ
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:05:15] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:05:20] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:05:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:05:20] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\testing.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\testing.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\testing.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\testing.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\testing.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\testing.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\testing.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\testing.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\testing.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:49:05] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:49:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:49:05] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:49:15] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:49:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 12:49:15] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:21] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:21] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: 4]b#Yv62*9<c
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:37] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:41] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:41] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: ca3}2j@[G.wy
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:47] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:49] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:49] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:57] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:57] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:57] "GET /?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:28:57] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: f8w*vK86dhnf
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:29:43] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:29:54] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:29:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:29:54] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:29:58] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:29:58] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:29:58] "GET /?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:29:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:29:58] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:33:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:37:09] "GET /?next=/dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:37:09] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:37:09] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:37:15] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:37:16] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:37:16] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:37:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:37:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:45:30] "[35m[1mGET /?next=/dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:45:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:45:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:45:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:45:49] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:45:49] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:45:49] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:45:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:39] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:39] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:39] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:39] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:39] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:39] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+root - ERROR - Registration failed for DSANTOLI4. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:45] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:45] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:48:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - ERROR - Registration failed for DSANTOLI4. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:05] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:05] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:13] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:13] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:13] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:13] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:13] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:49:13] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - ERROR - Registration failed for DSANTOLI3. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:55:33] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:55:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:55:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:55:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:55:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:55:58] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:55:58] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:55:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:59:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:59:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:59:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:59:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 13:59:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:00:42] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:00:42] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:00:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:35] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:35] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - Generated password: g31qnmqV'&i-
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:43] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:46] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:46] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:51] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:51] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:05:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:28:26] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:28:26] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:28:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - Generated password: '\70jysn6-hC
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:29:22] "GET /generate-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:29:31] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:29:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:29:31] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - Generated password: 9hihK=es.2}v
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:30:21] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - DSANTOLI3
+root - INFO - 9hihK=es.2}v
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:30:24] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:30:24] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 14:30:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:42:44] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:42:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:42:44] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:42:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+root - INFO - Generated password: *;hZd)1&q0j|
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:00] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: wd[F"u4jxc76
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:05] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: i+43p8;7Dfdi
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:07] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: :rTwy'_5p!u0
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:07] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: H^i`v~j7cm7z
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:08] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: l67o`d$5uwWt
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:08] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: +bd26[o;Rf!n
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:08] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: `^mv(#Ucn2pa
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:08] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: 4u1iH_h4~!}g
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:08] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: c0a0vb'+2L0j
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:09] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: 0-Vg5irz6#|6
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:09] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: k70bMd=0tq)8
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:09] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: 'p@^+n8Yr69v
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:09] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: F76!k6kmw97,
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:09] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: >"3Ih43pc-81
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:10] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: #5krtmnP:"sw
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:10] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: n~83h4ce{j8H
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:10] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: xv5hq+$7Z99-
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:10] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: :$8r99Hell88
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:10] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: t9zu?eQ9#*a0
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:10] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: 7>f{yX2=izy/
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:43:11] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Generated password: p&:zf;0@d90T
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:45:36] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - DSANTOLI111
+root - INFO - p&:zf;0@d90T
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:45:43] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:45:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:45:43] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI111
+root - INFO - p&:zf;0@d90T
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:45:51] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:45:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 16:45:52] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:53:49] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:53:49] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:53:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:53:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:56:34] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:56:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:56:34] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsrde326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:57:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:57:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:57:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:57:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:57:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsrde326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:58:05] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 18:58:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:32:57] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:32:57] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:32:57] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:32:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:32:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\config.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:42:33] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:42:33] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:42:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:42:40] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:42:40] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:42:40] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:42:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:43:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:43:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:43:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:43:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:45:37] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:45:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:45:37] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:45:45] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:45:45] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:45:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:45:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:47:45] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:47:46] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:47:46] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:47:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:48:17] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 19:48:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:00:53] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:00:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:11:48] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:11:48] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:11:49] "GET / HTTP/1.1" 200 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:17:53] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:17:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:18:28] "[35m[1mPOST /add-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:18:28] "GET /add-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:18:28] "GET /add-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:18:28] "GET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:18:28] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:20:46] "[35m[1mPOST /add-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:20:46] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:20:46] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:20:46] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:20:46] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:22:43] "[32mPOST /add-password HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:22:43] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:22:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:22:51] "GET / HTTP/1.1" 200 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:23:19] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:23:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:23:29] "[32mPOST /add-password HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:23:29] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:23:29] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:27:35] "GET / HTTP/1.1" 200 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:27:45] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:27:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:28:01] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:28:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:30:53] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:30:55] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:30:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:30:56] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI2
+root - INFO - Starwarsride326!
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:31:14] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:31:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:31:14] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI2
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:31:23] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:31:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - 20
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:31:35] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:31:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - 20
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:34:18] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:34:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - 20
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:34:28] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:34:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI2
+root - INFO - Starwarsride326!
+root - ERROR - Registration failed for DSANTOLI2. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:34:50] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:34:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:34:50] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: X_9i>@!gqafq
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:34:57] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - DSANTOLI3
+root - INFO - X_9i>@!gqafq
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:35:01] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:35:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:35:01] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI3
+root - INFO - X_9i>@!gqafq
+root - ERROR - Registration failed for DSANTOLI3. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:36:14] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:36:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:36:14] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: zhP39{{'u8ka
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:36:20] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - DSANTOLI4
+root - INFO - zhP39{{'u8ka
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:36:20] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:36:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:36:20] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI4
+root - INFO - zhP39{{'u8ka
+root - ERROR - Registration failed for DSANTOLI4. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:37:20] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:37:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:37:20] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:37:30] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:37:30] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:37:43] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:37:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI4
+root - INFO - zhP39{{'u8ka
+root - ERROR - Registration failed for DSANTOLI4. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:41:01] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:41:01] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:41:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:48:09] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:48:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:48:32] "[35m[1mPOST /add-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:48:32] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:48:32] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:48:32] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:48:32] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:49:38] "[35m[1mPOST /add-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:49:39] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:49:39] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:49:39] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:49:39] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:50:21] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:50:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:57:44] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:57:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:58:26] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 20:58:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:08:31] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:08:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:08:47] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:08:47] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:08:48] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:08:48] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:11:04] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:11:04] "GET /static/css/styles.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:11:04] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:11:20] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:11:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:11:45] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:11:45] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:11:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:11:45] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:13:25] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:13:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\crypto_utils.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:43:45] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:43:45] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:43:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:43:45] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - TestMaster
+root - INFO - Starwarsride326!
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:44:02] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:44:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:44:02] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - TestMaster
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:45:34] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:45:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:45:50] "[35m[1mPOST /add-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:45:50] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:45:50] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:45:50] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:45:50] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\crypto_utils.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - None
+root - INFO - 23
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:49:10] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:49:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:51:33] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:51:33] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:51:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:51:33] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - fttat
+root - INFO - fdsfsddfs
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:55:18] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:55:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 21:55:24] "GET / HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - fsfsf
+root - INFO - sffssf
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:13:22] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:13:22] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:13:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:13:31] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:13:31] "GET /dashboard?username=DSANTOLI HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:13:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:32] "GET /dashboard?username=DSANTOLI HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:34] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:34] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - fdsfdsfds
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:41] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:41] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:49] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:49] "GET /dashboard?username=DSANTOLI HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:14:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:15:40] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:15:40] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:15:40] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:15:40] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:15:51] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:15:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:17:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:17:19] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:17:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:17:19] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:41:42] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:41:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:03] "[35m[1mPOST /add-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:03] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:03] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:03] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:03] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:19] "GET / HTTP/1.1" 200 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:34] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:46] "[35m[1mPOST /add-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:46] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:46] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:42:46] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:13] "GET / HTTP/1.1" 200 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:23] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:23] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:37] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:52] "[35m[1mPOST /add-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:52] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:52] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:43:52] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:44:58] "[35m[1mPOST /add-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:44:58] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:44:58] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:44:58] "[36mGET /add-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:48:10] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:48:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - None
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:48:19] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:48:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - None
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:48:37] "POST /add-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:48:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:50:18] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:50:18] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:50:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:50:19] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:50:27] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:50:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - None
+root - INFO - 19
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:50:41] "[32mPOST /add-password HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:50:41] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 22:50:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 23:49:03] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 23:49:03] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 23:49:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [25/Apr/2024 23:49:04] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:41:22] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:41:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:41:22] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:41:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+root - INFO - Tester
+root - INFO - tttt
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:41:49] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:41:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:41:49] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: -5ner7j`4z(G
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:41:58] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - Tester
+root - INFO - -5ner7j`4z(G
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:42:00] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:42:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:42:00] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:49:06] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:49:06] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 01:49:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:18] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:18] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:19] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:34] "POST / HTTP/1.1" 200 -
+root - ERROR - Registration failed for dsantoli. Reason: UNIQUE constraint failed: User.Username
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:35] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:35] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:50] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:50] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:06:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - None
+root - INFO - 1
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:07:05] "[32mPOST /add-password HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:07:05] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:07:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - None
+root - INFO - 1
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:07:30] "[32mPOST /add-password HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:07:30] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:07:30] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\crypto_utils.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:14:51] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:14:51] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:14:51] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:14:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:15:05] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:15:05] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:15:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:15:09] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:17:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:17:57] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:17:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:17:57] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:00] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:00] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:00] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:20] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:20] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:28] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:28] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:28] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:37] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:37] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:18:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - None
+root - INFO - 1
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:19:05] "[32mPOST /add-password HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:19:05] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:19:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\crypto_utils.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:25] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:26] "GET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:26] "GET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:26] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:26] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:38] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:38] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:38] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:39] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:39] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:39] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:39] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:39] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:40] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:40] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:41] "GET / HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\crypto_utils.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:52] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:52] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:21:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\crypto_utils.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:22:26] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:22:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:22:58] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:22:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:22:58] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:09] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:09] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:09] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:09] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:09] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:31] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:32] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:32] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:32] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:32] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:56] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:56] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:56] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:56] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:25:56] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:27] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:27] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:27] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:27] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:27] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:29] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:29] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:29] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:29] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:29] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:36] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:36] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:37] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:37] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:27:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:28:51] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:28:51] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:28:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:28:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:28:57] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:28:58] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:28:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:06] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:06] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:06] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:09] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:09] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:09] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: 5iHc&<0vkv%1
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:46] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - ADMIN
+root - INFO - 5iHc&<0vkv%1
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:49] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:29:50] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:38:19] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:38:19] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:38:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:38:32] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:38:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:38:47] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:38:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:19] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:19] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:19] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:19] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:19] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:43] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:46] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:46] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:46] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - ADMIN
+root - INFO - 5iHc&<0vkv%1
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:59] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:59] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:40:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:43:59] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:43:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:44:39] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:44:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:45:04] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:45:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:45:07] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:45:07] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:45:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:45:07] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:45:49] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:45:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:45:49] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - Generated password: 5j3(5vk'1R&l
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:01] "GET /generate-password HTTP/1.1" 200 -
+root - INFO - DSANTOLI2
+root - INFO - 5j3(5vk'1R&l
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:07] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:07] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI2
+root - INFO - 5j3(5vk'1R&l
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:12] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:12] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+root - INFO - None
+root - INFO - 3
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:28] "[32mPOST /add-password HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:28] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:33] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:33] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:33] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - ADMIN
+root - INFO - 5iHc&<0vkv%1
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:46] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:46] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:51] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:51] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:46:51] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - DSANTOLI
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:48:55] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:48:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:48:55] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+root - INFO - dsantoli
+root - INFO - Starwarsride326!
+root - INFO - LOGIN BUTTON HIT
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:49:09] "[32mPOST / HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:49:09] "GET /dashboard HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [26/Apr/2024 02:49:09] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\dsant\\Documents\\KENT_LOCAL\\KENT_INFOSEC\\PasswordManager\\crypto_utils.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 105-555-748
